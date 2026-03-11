@@ -1,0 +1,20 @@
+﻿Shoes
+1.0.0.0
+
+winexe
+C#
+.cs
+D:\проекты сишарп\Shoes\Shoes\obj\Debug\net8.0-windows\
+Shoes
+none
+false
+TRACE;DEBUG;NET;NET8_0;NETCOREAPP;WINDOWS;WINDOWS7_0;NET5_0_OR_GREATER;NET6_0_OR_GREATER;NET7_0_OR_GREATER;NET8_0_OR_GREATER;NETCOREAPP3_0_OR_GREATER;NETCOREAPP3_1_OR_GREATER;WINDOWS7_0_OR_GREATER
+D:\проекты сишарп\Shoes\Shoes\App.xaml
+7-1500382756
+
+22-417421499
+212-1941463706
+Windows\AddOrderWindow.xaml;Windows\AddTovarWindow.xaml;Windows\MainWindow.xaml;Windows\OrderControl.xaml;Windows\OrderWindow.xaml;Windows\ProductWindow.xaml;Windows\TovarControl.xaml;
+
+True
+

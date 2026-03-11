@@ -1,0 +1,182 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\\u043F\u0440\u043E\u0435\u043A\u0442\u044B \u0441\u0438\u0448\u0430\u0440\u043F\\CosmeticApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B05F2F84-6A7A-42DB-AE3E-97B9C83CA0A0}|CosmeticApi\\CosmeticApi.csproj|d:\\\u043F\u0440\u043E\u0435\u043A\u0442\u044B \u0441\u0438\u0448\u0430\u0440\u043F\\cosmeticapi\\cosmeticapi\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B05F2F84-6A7A-42DB-AE3E-97B9C83CA0A0}|CosmeticApi\\CosmeticApi.csproj|solutionrelative:cosmeticapi\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B05F2F84-6A7A-42DB-AE3E-97B9C83CA0A0}|CosmeticApi\\CosmeticApi.csproj|d:\\\u043F\u0440\u043E\u0435\u043A\u0442\u044B \u0441\u0438\u0448\u0430\u0440\u043F\\cosmeticapi\\cosmeticapi\\controllers\\tovarcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B05F2F84-6A7A-42DB-AE3E-97B9C83CA0A0}|CosmeticApi\\CosmeticApi.csproj|solutionrelative:cosmeticapi\\controllers\\tovarcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B05F2F84-6A7A-42DB-AE3E-97B9C83CA0A0}|CosmeticApi\\CosmeticApi.csproj|d:\\\u043F\u0440\u043E\u0435\u043A\u0442\u044B \u0441\u0438\u0448\u0430\u0440\u043F\\cosmeticapi\\cosmeticapi\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B05F2F84-6A7A-42DB-AE3E-97B9C83CA0A0}|CosmeticApi\\CosmeticApi.csproj|solutionrelative:cosmeticapi\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B05F2F84-6A7A-42DB-AE3E-97B9C83CA0A0}|CosmeticApi\\CosmeticApi.csproj|d:\\\u043F\u0440\u043E\u0435\u043A\u0442\u044B \u0441\u0438\u0448\u0430\u0440\u043F\\cosmeticapi\\cosmeticapi\\controllers\\pickuppointcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B05F2F84-6A7A-42DB-AE3E-97B9C83CA0A0}|CosmeticApi\\CosmeticApi.csproj|solutionrelative:cosmeticapi\\controllers\\pickuppointcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B05F2F84-6A7A-42DB-AE3E-97B9C83CA0A0}|CosmeticApi\\CosmeticApi.csproj|d:\\\u043F\u0440\u043E\u0435\u043A\u0442\u044B \u0441\u0438\u0448\u0430\u0440\u043F\\cosmeticapi\\cosmeticapi\\model\\cartdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B05F2F84-6A7A-42DB-AE3E-97B9C83CA0A0}|CosmeticApi\\CosmeticApi.csproj|solutionrelative:cosmeticapi\\model\\cartdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B05F2F84-6A7A-42DB-AE3E-97B9C83CA0A0}|CosmeticApi\\CosmeticApi.csproj|d:\\\u043F\u0440\u043E\u0435\u043A\u0442\u044B \u0441\u0438\u0448\u0430\u0440\u043F\\cosmeticapi\\cosmeticapi\\model\\tovarcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B05F2F84-6A7A-42DB-AE3E-97B9C83CA0A0}|CosmeticApi\\CosmeticApi.csproj|solutionrelative:cosmeticapi\\model\\tovarcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B05F2F84-6A7A-42DB-AE3E-97B9C83CA0A0}|CosmeticApi\\CosmeticApi.csproj|d:\\\u043F\u0440\u043E\u0435\u043A\u0442\u044B \u0441\u0438\u0448\u0430\u0440\u043F\\cosmeticapi\\cosmeticapi\\model\\supplier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B05F2F84-6A7A-42DB-AE3E-97B9C83CA0A0}|CosmeticApi\\CosmeticApi.csproj|solutionrelative:cosmeticapi\\model\\supplier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B05F2F84-6A7A-42DB-AE3E-97B9C83CA0A0}|CosmeticApi\\CosmeticApi.csproj|d:\\\u043F\u0440\u043E\u0435\u043A\u0442\u044B \u0441\u0438\u0448\u0430\u0440\u043F\\cosmeticapi\\cosmeticapi\\model\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B05F2F84-6A7A-42DB-AE3E-97B9C83CA0A0}|CosmeticApi\\CosmeticApi.csproj|solutionrelative:cosmeticapi\\model\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B05F2F84-6A7A-42DB-AE3E-97B9C83CA0A0}|CosmeticApi\\CosmeticApi.csproj|d:\\\u043F\u0440\u043E\u0435\u043A\u0442\u044B \u0441\u0438\u0448\u0430\u0440\u043F\\cosmeticapi\\cosmeticapi\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B05F2F84-6A7A-42DB-AE3E-97B9C83CA0A0}|CosmeticApi\\CosmeticApi.csproj|solutionrelative:cosmeticapi\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B05F2F84-6A7A-42DB-AE3E-97B9C83CA0A0}|CosmeticApi\\CosmeticApi.csproj|d:\\\u043F\u0440\u043E\u0435\u043A\u0442\u044B \u0441\u0438\u0448\u0430\u0440\u043F\\cosmeticapi\\cosmeticapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B05F2F84-6A7A-42DB-AE3E-97B9C83CA0A0}|CosmeticApi\\CosmeticApi.csproj|solutionrelative:cosmeticapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PickUpPointController.cs",
+              "DocumentMoniker": "D:\\\u043F\u0440\u043E\u0435\u043A\u0442\u044B \u0441\u0438\u0448\u0430\u0440\u043F\\CosmeticApi\\CosmeticApi\\Controllers\\PickUpPointController.cs",
+              "RelativeDocumentMoniker": "CosmeticApi\\Controllers\\PickUpPointController.cs",
+              "ToolTip": "D:\\\u043F\u0440\u043E\u0435\u043A\u0442\u044B \u0441\u0438\u0448\u0430\u0440\u043F\\CosmeticApi\\CosmeticApi\\Controllers\\PickUpPointController.cs",
+              "RelativeToolTip": "CosmeticApi\\Controllers\\PickUpPointController.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAYwDMAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-23T14:18:23.829Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CartController.cs",
+              "DocumentMoniker": "D:\\\u043F\u0440\u043E\u0435\u043A\u0442\u044B \u0441\u0438\u0448\u0430\u0440\u043F\\CosmeticApi\\CosmeticApi\\Controllers\\CartController.cs",
+              "RelativeDocumentMoniker": "CosmeticApi\\Controllers\\CartController.cs",
+              "ToolTip": "D:\\\u043F\u0440\u043E\u0435\u043A\u0442\u044B \u0441\u0438\u0448\u0430\u0440\u043F\\CosmeticApi\\CosmeticApi\\Controllers\\CartController.cs",
+              "RelativeToolTip": "CosmeticApi\\Controllers\\CartController.cs",
+              "ViewState": "AgIAALkAAAAAAAAAAAAYwNoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-23T12:09:05.527Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OrderController.cs",
+              "DocumentMoniker": "D:\\\u043F\u0440\u043E\u0435\u043A\u0442\u044B \u0441\u0438\u0448\u0430\u0440\u043F\\CosmeticApi\\CosmeticApi\\Controllers\\OrderController.cs",
+              "RelativeDocumentMoniker": "CosmeticApi\\Controllers\\OrderController.cs",
+              "ToolTip": "D:\\\u043F\u0440\u043E\u0435\u043A\u0442\u044B \u0441\u0438\u0448\u0430\u0440\u043F\\CosmeticApi\\CosmeticApi\\Controllers\\OrderController.cs",
+              "RelativeToolTip": "CosmeticApi\\Controllers\\OrderController.cs",
+              "ViewState": "AgIAANIAAAAAAAAAAAAQwOMAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-23T12:19:23.832Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Role.cs",
+              "DocumentMoniker": "D:\\\u043F\u0440\u043E\u0435\u043A\u0442\u044B \u0441\u0438\u0448\u0430\u0440\u043F\\CosmeticApi\\CosmeticApi\\Model\\Role.cs",
+              "RelativeDocumentMoniker": "CosmeticApi\\Model\\Role.cs",
+              "ToolTip": "D:\\\u043F\u0440\u043E\u0435\u043A\u0442\u044B \u0441\u0438\u0448\u0430\u0440\u043F\\CosmeticApi\\CosmeticApi\\Model\\Role.cs",
+              "RelativeToolTip": "CosmeticApi\\Model\\Role.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-23T12:31:35.021Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Supplier.cs",
+              "DocumentMoniker": "D:\\\u043F\u0440\u043E\u0435\u043A\u0442\u044B \u0441\u0438\u0448\u0430\u0440\u043F\\CosmeticApi\\CosmeticApi\\Model\\Supplier.cs",
+              "RelativeDocumentMoniker": "CosmeticApi\\Model\\Supplier.cs",
+              "ToolTip": "D:\\\u043F\u0440\u043E\u0435\u043A\u0442\u044B \u0441\u0438\u0448\u0430\u0440\u043F\\CosmeticApi\\CosmeticApi\\Model\\Supplier.cs",
+              "RelativeToolTip": "CosmeticApi\\Model\\Supplier.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-23T12:31:48.566Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TovarCategory.cs",
+              "DocumentMoniker": "D:\\\u043F\u0440\u043E\u0435\u043A\u0442\u044B \u0441\u0438\u0448\u0430\u0440\u043F\\CosmeticApi\\CosmeticApi\\Model\\TovarCategory.cs",
+              "RelativeDocumentMoniker": "CosmeticApi\\Model\\TovarCategory.cs",
+              "ToolTip": "D:\\\u043F\u0440\u043E\u0435\u043A\u0442\u044B \u0441\u0438\u0448\u0430\u0440\u043F\\CosmeticApi\\CosmeticApi\\Model\\TovarCategory.cs",
+              "RelativeToolTip": "CosmeticApi\\Model\\TovarCategory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-23T12:32:00.759Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CartDto.cs",
+              "DocumentMoniker": "D:\\\u043F\u0440\u043E\u0435\u043A\u0442\u044B \u0441\u0438\u0448\u0430\u0440\u043F\\CosmeticApi\\CosmeticApi\\Model\\CartDto.cs",
+              "RelativeDocumentMoniker": "CosmeticApi\\Model\\CartDto.cs",
+              "ToolTip": "D:\\\u043F\u0440\u043E\u0435\u043A\u0442\u044B \u0441\u0438\u0448\u0430\u0440\u043F\\CosmeticApi\\CosmeticApi\\Model\\CartDto.cs",
+              "RelativeToolTip": "CosmeticApi\\Model\\CartDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-23T13:32:56.434Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TovarController.cs",
+              "DocumentMoniker": "D:\\\u043F\u0440\u043E\u0435\u043A\u0442\u044B \u0441\u0438\u0448\u0430\u0440\u043F\\CosmeticApi\\CosmeticApi\\Controllers\\TovarController.cs",
+              "RelativeDocumentMoniker": "CosmeticApi\\Controllers\\TovarController.cs",
+              "ToolTip": "D:\\\u043F\u0440\u043E\u0435\u043A\u0442\u044B \u0441\u0438\u0448\u0430\u0440\u043F\\CosmeticApi\\CosmeticApi\\Controllers\\TovarController.cs",
+              "RelativeToolTip": "CosmeticApi\\Controllers\\TovarController.cs",
+              "ViewState": "AgIAAEkAAAAAAAAAAAAYwFoAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-25T08:56:22.593Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "D:\\\u043F\u0440\u043E\u0435\u043A\u0442\u044B \u0441\u0438\u0448\u0430\u0440\u043F\\CosmeticApi\\CosmeticApi\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "CosmeticApi\\Controllers\\UserController.cs",
+              "ToolTip": "D:\\\u043F\u0440\u043E\u0435\u043A\u0442\u044B \u0441\u0438\u0448\u0430\u0440\u043F\\CosmeticApi\\CosmeticApi\\Controllers\\UserController.cs",
+              "RelativeToolTip": "CosmeticApi\\Controllers\\UserController.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAUwEsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-25T08:56:03.608Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\\u043F\u0440\u043E\u0435\u043A\u0442\u044B \u0441\u0438\u0448\u0430\u0440\u043F\\CosmeticApi\\CosmeticApi\\Program.cs",
+              "RelativeDocumentMoniker": "CosmeticApi\\Program.cs",
+              "ToolTip": "D:\\\u043F\u0440\u043E\u0435\u043A\u0442\u044B \u0441\u0438\u0448\u0430\u0440\u043F\\CosmeticApi\\CosmeticApi\\Program.cs",
+              "RelativeToolTip": "CosmeticApi\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAABTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-25T09:10:59.584Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

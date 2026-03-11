@@ -1,0 +1,382 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\\u043F\u0440\u043E\u0435\u043A\u0442\u044B \u0441\u0438\u0448\u0430\u0440\u043F\\Shoes\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{80D01EA6-BC13-42C9-9BDD-B9B903E3B396}|Shoes\\Shoes.csproj|d:\\\u043F\u0440\u043E\u0435\u043A\u0442\u044B \u0441\u0438\u0448\u0430\u0440\u043F\\shoes\\shoes\\windows\\productwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80D01EA6-BC13-42C9-9BDD-B9B903E3B396}|Shoes\\Shoes.csproj|solutionrelative:shoes\\windows\\productwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80D01EA6-BC13-42C9-9BDD-B9B903E3B396}|Shoes\\Shoes.csproj|d:\\\u043F\u0440\u043E\u0435\u043A\u0442\u044B \u0441\u0438\u0448\u0430\u0440\u043F\\shoes\\shoes\\windows\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80D01EA6-BC13-42C9-9BDD-B9B903E3B396}|Shoes\\Shoes.csproj|solutionrelative:shoes\\windows\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80D01EA6-BC13-42C9-9BDD-B9B903E3B396}|Shoes\\Shoes.csproj|d:\\\u043F\u0440\u043E\u0435\u043A\u0442\u044B \u0441\u0438\u0448\u0430\u0440\u043F\\shoes\\shoes\\windows\\addtovarwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80D01EA6-BC13-42C9-9BDD-B9B903E3B396}|Shoes\\Shoes.csproj|solutionrelative:shoes\\windows\\addtovarwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80D01EA6-BC13-42C9-9BDD-B9B903E3B396}|Shoes\\Shoes.csproj|d:\\\u043F\u0440\u043E\u0435\u043A\u0442\u044B \u0441\u0438\u0448\u0430\u0440\u043F\\shoes\\shoes\\model\\tovar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80D01EA6-BC13-42C9-9BDD-B9B903E3B396}|Shoes\\Shoes.csproj|solutionrelative:shoes\\model\\tovar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80D01EA6-BC13-42C9-9BDD-B9B903E3B396}|Shoes\\Shoes.csproj|d:\\\u043F\u0440\u043E\u0435\u043A\u0442\u044B \u0441\u0438\u0448\u0430\u0440\u043F\\shoes\\shoes\\windows\\productwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{80D01EA6-BC13-42C9-9BDD-B9B903E3B396}|Shoes\\Shoes.csproj|solutionrelative:shoes\\windows\\productwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80D01EA6-BC13-42C9-9BDD-B9B903E3B396}|Shoes\\Shoes.csproj|d:\\\u043F\u0440\u043E\u0435\u043A\u0442\u044B \u0441\u0438\u0448\u0430\u0440\u043F\\shoes\\shoes\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80D01EA6-BC13-42C9-9BDD-B9B903E3B396}|Shoes\\Shoes.csproj|solutionrelative:shoes\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80D01EA6-BC13-42C9-9BDD-B9B903E3B396}|Shoes\\Shoes.csproj|d:\\\u043F\u0440\u043E\u0435\u043A\u0442\u044B \u0441\u0438\u0448\u0430\u0440\u043F\\shoes\\shoes\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{80D01EA6-BC13-42C9-9BDD-B9B903E3B396}|Shoes\\Shoes.csproj|solutionrelative:shoes\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80D01EA6-BC13-42C9-9BDD-B9B903E3B396}|Shoes\\Shoes.csproj|d:\\\u043F\u0440\u043E\u0435\u043A\u0442\u044B \u0441\u0438\u0448\u0430\u0440\u043F\\shoes\\shoes\\windows\\tovarcontrol.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{80D01EA6-BC13-42C9-9BDD-B9B903E3B396}|Shoes\\Shoes.csproj|solutionrelative:shoes\\windows\\tovarcontrol.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80D01EA6-BC13-42C9-9BDD-B9B903E3B396}|Shoes\\Shoes.csproj|d:\\\u043F\u0440\u043E\u0435\u043A\u0442\u044B \u0441\u0438\u0448\u0430\u0440\u043F\\shoes\\shoes\\windows\\addorderwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80D01EA6-BC13-42C9-9BDD-B9B903E3B396}|Shoes\\Shoes.csproj|solutionrelative:shoes\\windows\\addorderwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80D01EA6-BC13-42C9-9BDD-B9B903E3B396}|Shoes\\Shoes.csproj|d:\\\u043F\u0440\u043E\u0435\u043A\u0442\u044B \u0441\u0438\u0448\u0430\u0440\u043F\\shoes\\shoes\\windows\\addorderwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{80D01EA6-BC13-42C9-9BDD-B9B903E3B396}|Shoes\\Shoes.csproj|solutionrelative:shoes\\windows\\addorderwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80D01EA6-BC13-42C9-9BDD-B9B903E3B396}|Shoes\\Shoes.csproj|d:\\\u043F\u0440\u043E\u0435\u043A\u0442\u044B \u0441\u0438\u0448\u0430\u0440\u043F\\shoes\\shoes\\windows\\orderwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80D01EA6-BC13-42C9-9BDD-B9B903E3B396}|Shoes\\Shoes.csproj|solutionrelative:shoes\\windows\\orderwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80D01EA6-BC13-42C9-9BDD-B9B903E3B396}|Shoes\\Shoes.csproj|d:\\\u043F\u0440\u043E\u0435\u043A\u0442\u044B \u0441\u0438\u0448\u0430\u0440\u043F\\shoes\\shoes\\windows\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{80D01EA6-BC13-42C9-9BDD-B9B903E3B396}|Shoes\\Shoes.csproj|solutionrelative:shoes\\windows\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80D01EA6-BC13-42C9-9BDD-B9B903E3B396}|Shoes\\Shoes.csproj|d:\\\u043F\u0440\u043E\u0435\u043A\u0442\u044B \u0441\u0438\u0448\u0430\u0440\u043F\\shoes\\shoes\\windows\\orderwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{80D01EA6-BC13-42C9-9BDD-B9B903E3B396}|Shoes\\Shoes.csproj|solutionrelative:shoes\\windows\\orderwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80D01EA6-BC13-42C9-9BDD-B9B903E3B396}|Shoes\\Shoes.csproj|d:\\\u043F\u0440\u043E\u0435\u043A\u0442\u044B \u0441\u0438\u0448\u0430\u0440\u043F\\shoes\\shoes\\windows\\addtovarwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{80D01EA6-BC13-42C9-9BDD-B9B903E3B396}|Shoes\\Shoes.csproj|solutionrelative:shoes\\windows\\addtovarwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80D01EA6-BC13-42C9-9BDD-B9B903E3B396}|Shoes\\Shoes.csproj|d:\\\u043F\u0440\u043E\u0435\u043A\u0442\u044B \u0441\u0438\u0448\u0430\u0440\u043F\\shoes\\shoes\\windows\\tovarcontrol.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80D01EA6-BC13-42C9-9BDD-B9B903E3B396}|Shoes\\Shoes.csproj|solutionrelative:shoes\\windows\\tovarcontrol.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80D01EA6-BC13-42C9-9BDD-B9B903E3B396}|Shoes\\Shoes.csproj|d:\\\u043F\u0440\u043E\u0435\u043A\u0442\u044B \u0441\u0438\u0448\u0430\u0440\u043F\\shoes\\shoes\\model\\pickuppoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80D01EA6-BC13-42C9-9BDD-B9B903E3B396}|Shoes\\Shoes.csproj|solutionrelative:shoes\\model\\pickuppoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80D01EA6-BC13-42C9-9BDD-B9B903E3B396}|Shoes\\Shoes.csproj|d:\\\u043F\u0440\u043E\u0435\u043A\u0442\u044B \u0441\u0438\u0448\u0430\u0440\u043F\\shoes\\shoes\\model\\structureorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80D01EA6-BC13-42C9-9BDD-B9B903E3B396}|Shoes\\Shoes.csproj|solutionrelative:shoes\\model\\structureorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80D01EA6-BC13-42C9-9BDD-B9B903E3B396}|Shoes\\Shoes.csproj|d:\\\u043F\u0440\u043E\u0435\u043A\u0442\u044B \u0441\u0438\u0448\u0430\u0440\u043F\\shoes\\shoes\\model\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80D01EA6-BC13-42C9-9BDD-B9B903E3B396}|Shoes\\Shoes.csproj|solutionrelative:shoes\\model\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80D01EA6-BC13-42C9-9BDD-B9B903E3B396}|Shoes\\Shoes.csproj|d:\\\u043F\u0440\u043E\u0435\u043A\u0442\u044B \u0441\u0438\u0448\u0430\u0440\u043F\\shoes\\shoes\\windows\\ordercontrol.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{80D01EA6-BC13-42C9-9BDD-B9B903E3B396}|Shoes\\Shoes.csproj|solutionrelative:shoes\\windows\\ordercontrol.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80D01EA6-BC13-42C9-9BDD-B9B903E3B396}|Shoes\\Shoes.csproj|d:\\\u043F\u0440\u043E\u0435\u043A\u0442\u044B \u0441\u0438\u0448\u0430\u0440\u043F\\shoes\\shoes\\windows\\ordercontrol.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80D01EA6-BC13-42C9-9BDD-B9B903E3B396}|Shoes\\Shoes.csproj|solutionrelative:shoes\\windows\\ordercontrol.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80D01EA6-BC13-42C9-9BDD-B9B903E3B396}|Shoes\\Shoes.csproj|d:\\\u043F\u0440\u043E\u0435\u043A\u0442\u044B \u0441\u0438\u0448\u0430\u0440\u043F\\shoes\\shoes\\model\\manufacturer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80D01EA6-BC13-42C9-9BDD-B9B903E3B396}|Shoes\\Shoes.csproj|solutionrelative:shoes\\model\\manufacturer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80D01EA6-BC13-42C9-9BDD-B9B903E3B396}|Shoes\\Shoes.csproj|d:\\\u043F\u0440\u043E\u0435\u043A\u0442\u044B \u0441\u0438\u0448\u0430\u0440\u043F\\shoes\\shoes\\model\\supplier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80D01EA6-BC13-42C9-9BDD-B9B903E3B396}|Shoes\\Shoes.csproj|solutionrelative:shoes\\model\\supplier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80D01EA6-BC13-42C9-9BDD-B9B903E3B396}|Shoes\\Shoes.csproj|d:\\\u043F\u0440\u043E\u0435\u043A\u0442\u044B \u0441\u0438\u0448\u0430\u0440\u043F\\shoes\\shoes\\model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80D01EA6-BC13-42C9-9BDD-B9B903E3B396}|Shoes\\Shoes.csproj|solutionrelative:shoes\\model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "D:\\\u043F\u0440\u043E\u0435\u043A\u0442\u044B \u0441\u0438\u0448\u0430\u0440\u043F\\Shoes\\Shoes\\App.xaml.cs",
+              "RelativeDocumentMoniker": "Shoes\\App.xaml.cs",
+              "ToolTip": "D:\\\u043F\u0440\u043E\u0435\u043A\u0442\u044B \u0441\u0438\u0448\u0430\u0440\u043F\\Shoes\\Shoes\\App.xaml.cs",
+              "RelativeToolTip": "Shoes\\App.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-04T16:18:03.306Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Tovar.cs",
+              "DocumentMoniker": "D:\\\u043F\u0440\u043E\u0435\u043A\u0442\u044B \u0441\u0438\u0448\u0430\u0440\u043F\\Shoes\\Shoes\\Model\\Tovar.cs",
+              "RelativeDocumentMoniker": "Shoes\\Model\\Tovar.cs",
+              "ToolTip": "D:\\\u043F\u0440\u043E\u0435\u043A\u0442\u044B \u0441\u0438\u0448\u0430\u0440\u043F\\Shoes\\Shoes\\Model\\Tovar.cs",
+              "RelativeToolTip": "Shoes\\Model\\Tovar.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAmwFIAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-02T10:33:44.563Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\\u043F\u0440\u043E\u0435\u043A\u0442\u044B \u0441\u0438\u0448\u0430\u0440\u043F\\Shoes\\Shoes\\Windows\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Shoes\\Windows\\MainWindow.xaml.cs",
+              "ToolTip": "D:\\\u043F\u0440\u043E\u0435\u043A\u0442\u044B \u0441\u0438\u0448\u0430\u0440\u043F\\Shoes\\Shoes\\Windows\\MainWindow.xaml.cs",
+              "RelativeToolTip": "Shoes\\Windows\\MainWindow.xaml.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAkwDYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-02T10:33:44.437Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "App.xaml",
+              "DocumentMoniker": "D:\\\u043F\u0440\u043E\u0435\u043A\u0442\u044B \u0441\u0438\u0448\u0430\u0440\u043F\\Shoes\\Shoes\\App.xaml",
+              "RelativeDocumentMoniker": "Shoes\\App.xaml",
+              "ToolTip": "D:\\\u043F\u0440\u043E\u0435\u043A\u0442\u044B \u0441\u0438\u0448\u0430\u0440\u043F\\Shoes\\Shoes\\App.xaml",
+              "RelativeToolTip": "Shoes\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-03-02T10:33:44.581Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProductWindow.xaml",
+              "DocumentMoniker": "D:\\\u043F\u0440\u043E\u0435\u043A\u0442\u044B \u0441\u0438\u0448\u0430\u0440\u043F\\Shoes\\Shoes\\Windows\\ProductWindow.xaml",
+              "RelativeDocumentMoniker": "Shoes\\Windows\\ProductWindow.xaml",
+              "ToolTip": "D:\\\u043F\u0440\u043E\u0435\u043A\u0442\u044B \u0441\u0438\u0448\u0430\u0440\u043F\\Shoes\\Shoes\\Windows\\ProductWindow.xaml",
+              "RelativeToolTip": "Shoes\\Windows\\ProductWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-03-02T10:33:44.422Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductWindow.xaml.cs",
+              "DocumentMoniker": "D:\\\u043F\u0440\u043E\u0435\u043A\u0442\u044B \u0441\u0438\u0448\u0430\u0440\u043F\\Shoes\\Shoes\\Windows\\ProductWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Shoes\\Windows\\ProductWindow.xaml.cs",
+              "ToolTip": "D:\\\u043F\u0440\u043E\u0435\u043A\u0442\u044B \u0441\u0438\u0448\u0430\u0440\u043F\\Shoes\\Shoes\\Windows\\ProductWindow.xaml.cs",
+              "RelativeToolTip": "Shoes\\Windows\\ProductWindow.xaml.cs",
+              "ViewState": "AgIAAAYBAAAAAAAAAAAkwCQBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-02T10:33:44.44Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AddTovarWindow.xaml.cs",
+              "DocumentMoniker": "D:\\\u043F\u0440\u043E\u0435\u043A\u0442\u044B \u0441\u0438\u0448\u0430\u0440\u043F\\Shoes\\Shoes\\Windows\\AddTovarWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Shoes\\Windows\\AddTovarWindow.xaml.cs",
+              "ToolTip": "D:\\\u043F\u0440\u043E\u0435\u043A\u0442\u044B \u0441\u0438\u0448\u0430\u0440\u043F\\Shoes\\Shoes\\Windows\\AddTovarWindow.xaml.cs",
+              "RelativeToolTip": "Shoes\\Windows\\AddTovarWindow.xaml.cs",
+              "ViewState": "AgIAAPkAAAAAAAAAAAAIwPwBAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-02T10:33:44.54Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TovarControl.xaml",
+              "DocumentMoniker": "D:\\\u043F\u0440\u043E\u0435\u043A\u0442\u044B \u0441\u0438\u0448\u0430\u0440\u043F\\Shoes\\Shoes\\Windows\\TovarControl.xaml",
+              "RelativeDocumentMoniker": "Shoes\\Windows\\TovarControl.xaml",
+              "ToolTip": "D:\\\u043F\u0440\u043E\u0435\u043A\u0442\u044B \u0441\u0438\u0448\u0430\u0440\u043F\\Shoes\\Shoes\\Windows\\TovarControl.xaml",
+              "RelativeToolTip": "Shoes\\Windows\\TovarControl.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-03-02T10:33:44.548Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AddOrderWindow.xaml.cs",
+              "DocumentMoniker": "D:\\\u043F\u0440\u043E\u0435\u043A\u0442\u044B \u0441\u0438\u0448\u0430\u0440\u043F\\Shoes\\Shoes\\Windows\\AddOrderWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Shoes\\Windows\\AddOrderWindow.xaml.cs",
+              "ToolTip": "D:\\\u043F\u0440\u043E\u0435\u043A\u0442\u044B \u0441\u0438\u0448\u0430\u0440\u043F\\Shoes\\Shoes\\Windows\\AddOrderWindow.xaml.cs",
+              "RelativeToolTip": "Shoes\\Windows\\AddOrderWindow.xaml.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwCEAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-02T10:33:44.534Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AddOrderWindow.xaml",
+              "DocumentMoniker": "D:\\\u043F\u0440\u043E\u0435\u043A\u0442\u044B \u0441\u0438\u0448\u0430\u0440\u043F\\Shoes\\Shoes\\Windows\\AddOrderWindow.xaml",
+              "RelativeDocumentMoniker": "Shoes\\Windows\\AddOrderWindow.xaml",
+              "ToolTip": "D:\\\u043F\u0440\u043E\u0435\u043A\u0442\u044B \u0441\u0438\u0448\u0430\u0440\u043F\\Shoes\\Shoes\\Windows\\AddOrderWindow.xaml",
+              "RelativeToolTip": "Shoes\\Windows\\AddOrderWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-03-02T10:33:44.555Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "OrderWindow.xaml.cs",
+              "DocumentMoniker": "D:\\\u043F\u0440\u043E\u0435\u043A\u0442\u044B \u0441\u0438\u0448\u0430\u0440\u043F\\Shoes\\Shoes\\Windows\\OrderWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Shoes\\Windows\\OrderWindow.xaml.cs",
+              "ToolTip": "D:\\\u043F\u0440\u043E\u0435\u043A\u0442\u044B \u0441\u0438\u0448\u0430\u0440\u043F\\Shoes\\Shoes\\Windows\\OrderWindow.xaml.cs",
+              "RelativeToolTip": "Shoes\\Windows\\OrderWindow.xaml.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAQwKAAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-02T10:33:44.537Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "TovarControl.xaml.cs",
+              "DocumentMoniker": "D:\\\u043F\u0440\u043E\u0435\u043A\u0442\u044B \u0441\u0438\u0448\u0430\u0440\u043F\\Shoes\\Shoes\\Windows\\TovarControl.xaml.cs",
+              "RelativeDocumentMoniker": "Shoes\\Windows\\TovarControl.xaml.cs",
+              "ToolTip": "D:\\\u043F\u0440\u043E\u0435\u043A\u0442\u044B \u0441\u0438\u0448\u0430\u0440\u043F\\Shoes\\Shoes\\Windows\\TovarControl.xaml.cs",
+              "RelativeToolTip": "Shoes\\Windows\\TovarControl.xaml.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABoAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-02T10:33:44.531Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\\u043F\u0440\u043E\u0435\u043A\u0442\u044B \u0441\u0438\u0448\u0430\u0440\u043F\\Shoes\\Shoes\\Windows\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "Shoes\\Windows\\MainWindow.xaml",
+              "ToolTip": "D:\\\u043F\u0440\u043E\u0435\u043A\u0442\u044B \u0441\u0438\u0448\u0430\u0440\u043F\\Shoes\\Shoes\\Windows\\MainWindow.xaml",
+              "RelativeToolTip": "Shoes\\Windows\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-03-02T10:33:43.961Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "OrderWindow.xaml",
+              "DocumentMoniker": "D:\\\u043F\u0440\u043E\u0435\u043A\u0442\u044B \u0441\u0438\u0448\u0430\u0440\u043F\\Shoes\\Shoes\\Windows\\OrderWindow.xaml",
+              "RelativeDocumentMoniker": "Shoes\\Windows\\OrderWindow.xaml",
+              "ToolTip": "D:\\\u043F\u0440\u043E\u0435\u043A\u0442\u044B \u0441\u0438\u0448\u0430\u0440\u043F\\Shoes\\Shoes\\Windows\\OrderWindow.xaml",
+              "RelativeToolTip": "Shoes\\Windows\\OrderWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-03-02T10:33:44.434Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AddTovarWindow.xaml",
+              "DocumentMoniker": "D:\\\u043F\u0440\u043E\u0435\u043A\u0442\u044B \u0441\u0438\u0448\u0430\u0440\u043F\\Shoes\\Shoes\\Windows\\AddTovarWindow.xaml",
+              "RelativeDocumentMoniker": "Shoes\\Windows\\AddTovarWindow.xaml",
+              "ToolTip": "D:\\\u043F\u0440\u043E\u0435\u043A\u0442\u044B \u0441\u0438\u0448\u0430\u0440\u043F\\Shoes\\Shoes\\Windows\\AddTovarWindow.xaml",
+              "RelativeToolTip": "Shoes\\Windows\\AddTovarWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-03-02T10:33:44.543Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "StructureOrder.cs",
+              "DocumentMoniker": "D:\\\u043F\u0440\u043E\u0435\u043A\u0442\u044B \u0441\u0438\u0448\u0430\u0440\u043F\\Shoes\\Shoes\\Model\\StructureOrder.cs",
+              "RelativeDocumentMoniker": "Shoes\\Model\\StructureOrder.cs",
+              "ToolTip": "D:\\\u043F\u0440\u043E\u0435\u043A\u0442\u044B \u0441\u0438\u0448\u0430\u0440\u043F\\Shoes\\Shoes\\Model\\StructureOrder.cs",
+              "RelativeToolTip": "Shoes\\Model\\StructureOrder.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-02T10:33:44.552Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "PickUpPoint.cs",
+              "DocumentMoniker": "D:\\\u043F\u0440\u043E\u0435\u043A\u0442\u044B \u0441\u0438\u0448\u0430\u0440\u043F\\Shoes\\Shoes\\Model\\PickUpPoint.cs",
+              "RelativeDocumentMoniker": "Shoes\\Model\\PickUpPoint.cs",
+              "ToolTip": "D:\\\u043F\u0440\u043E\u0435\u043A\u0442\u044B \u0441\u0438\u0448\u0430\u0440\u043F\\Shoes\\Shoes\\Model\\PickUpPoint.cs",
+              "RelativeToolTip": "Shoes\\Model\\PickUpPoint.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAByAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-02T10:33:44.559Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Order.cs",
+              "DocumentMoniker": "D:\\\u043F\u0440\u043E\u0435\u043A\u0442\u044B \u0441\u0438\u0448\u0430\u0440\u043F\\Shoes\\Shoes\\Model\\Order.cs",
+              "RelativeDocumentMoniker": "Shoes\\Model\\Order.cs",
+              "ToolTip": "D:\\\u043F\u0440\u043E\u0435\u043A\u0442\u044B \u0441\u0438\u0448\u0430\u0440\u043F\\Shoes\\Shoes\\Model\\Order.cs",
+              "RelativeToolTip": "Shoes\\Model\\Order.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAADwvx4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-02T10:33:44.567Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "OrderControl.xaml",
+              "DocumentMoniker": "D:\\\u043F\u0440\u043E\u0435\u043A\u0442\u044B \u0441\u0438\u0448\u0430\u0440\u043F\\Shoes\\Shoes\\Windows\\OrderControl.xaml",
+              "RelativeDocumentMoniker": "Shoes\\Windows\\OrderControl.xaml",
+              "ToolTip": "D:\\\u043F\u0440\u043E\u0435\u043A\u0442\u044B \u0441\u0438\u0448\u0430\u0440\u043F\\Shoes\\Shoes\\Windows\\OrderControl.xaml",
+              "RelativeToolTip": "Shoes\\Windows\\OrderControl.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-03-02T10:33:44.57Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "OrderControl.xaml.cs",
+              "DocumentMoniker": "D:\\\u043F\u0440\u043E\u0435\u043A\u0442\u044B \u0441\u0438\u0448\u0430\u0440\u043F\\Shoes\\Shoes\\Windows\\OrderControl.xaml.cs",
+              "RelativeDocumentMoniker": "Shoes\\Windows\\OrderControl.xaml.cs",
+              "ToolTip": "D:\\\u043F\u0440\u043E\u0435\u043A\u0442\u044B \u0441\u0438\u0448\u0430\u0440\u043F\\Shoes\\Shoes\\Windows\\OrderControl.xaml.cs",
+              "RelativeToolTip": "Shoes\\Windows\\OrderControl.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-02T10:33:44.573Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Manufacturer.cs",
+              "DocumentMoniker": "D:\\\u043F\u0440\u043E\u0435\u043A\u0442\u044B \u0441\u0438\u0448\u0430\u0440\u043F\\Shoes\\Shoes\\Model\\Manufacturer.cs",
+              "RelativeDocumentMoniker": "Shoes\\Model\\Manufacturer.cs",
+              "ToolTip": "D:\\\u043F\u0440\u043E\u0435\u043A\u0442\u044B \u0441\u0438\u0448\u0430\u0440\u043F\\Shoes\\Shoes\\Model\\Manufacturer.cs",
+              "RelativeToolTip": "Shoes\\Model\\Manufacturer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-02T10:33:44.584Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\\u043F\u0440\u043E\u0435\u043A\u0442\u044B \u0441\u0438\u0448\u0430\u0440\u043F\\Shoes\\Shoes\\Model\\User.cs",
+              "RelativeDocumentMoniker": "Shoes\\Model\\User.cs",
+              "ToolTip": "D:\\\u043F\u0440\u043E\u0435\u043A\u0442\u044B \u0441\u0438\u0448\u0430\u0440\u043F\\Shoes\\Shoes\\Model\\User.cs",
+              "RelativeToolTip": "Shoes\\Model\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-02T10:33:44.587Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Supplier.cs",
+              "DocumentMoniker": "D:\\\u043F\u0440\u043E\u0435\u043A\u0442\u044B \u0441\u0438\u0448\u0430\u0440\u043F\\Shoes\\Shoes\\Model\\Supplier.cs",
+              "RelativeDocumentMoniker": "Shoes\\Model\\Supplier.cs",
+              "ToolTip": "D:\\\u043F\u0440\u043E\u0435\u043A\u0442\u044B \u0441\u0438\u0448\u0430\u0440\u043F\\Shoes\\Shoes\\Model\\Supplier.cs",
+              "RelativeToolTip": "Shoes\\Model\\Supplier.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-02T10:33:44.59Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
